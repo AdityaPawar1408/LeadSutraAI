@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "lead_id": "c9c86835fbe5d3126747afdd",
+  "business_name": "Namrata Advertising | Best Outdoor Advertising Company/Agency In Nashik | Hoardings In Maharashtra",
+  "research": {
+    "business_summary": "Namrata Advertising is a dynamic and innovative marketing agency specializing in crafting compelling marketing strategies and creative campaigns. It focuses on delivering tailored solutions that resonate with target audiences across various platforms, with a specific emphasis on outdoor advertising in Nashik and Maharashtra.",
+    "products_services": [
+      "Hoardings",
+      "Pole Kiosks",
+      "Mobile Vans",
+      "Our Achievements",
+      "SEE OUR WORK"
+    ],
+    "target_audience": "Not enough information to determine from provided data",
+    "pain_points": [
+      "Not enough information to determine from provided data"
+    ],
+    "swot": {
+      "strengths": [
+        "Services are listed in the provided lead data",
+        "A website is listed in the provided lead data",
+        "A rating of 4.7 is provided"
+      ],
+      "weaknesses": [
+        "Not enough information to determine from provided data"
+      ],
+      "opportunities": [
+        "Not enough information to determine from provided data"
+      ],
+      "threats": [
+        "Not enough information to determine from provided data"
+      ]
+    },
+    "ideal_customer_profile": "Not enough information to determine from provided data",
+    "decision_maker_identification": "Not enough information to determine from provided data",
+    "sales_opportunities": [
+      "Not enough information to determine from provided data"
+    ],
+    "provided_facts": [
+      "Business name is Namrata Advertising | Best Outdoor Advertising Company/Agency In Nashik | Hoardings In Maharashtra",
+      "Category is Marketing agency",
+      "A business description is provided",
+      "31 services are provided",
+      "Website is https://namrataadvertising.com/",
+      "Rating is 4.7",
+      "Lead score is 85.5",
+      "Priority is High",
+      "Qualification status is Qualified"
+    ],
+    "reasonable_inferences": [
+      "The business operates in the Marketing agency category based on the provided classification.",
+      "The business offers multiple services based on the provided service list."
+    ],
+    "missing_information": [
+      "Products",
+      "Target customers",
+      "Email address",
+      "Review count"
+    ]
+  },
+  "retrieved_context": [
+    "Sales Proposal Guidelines\n\nA personalized sales proposal should be based on the prospect's actual business information.\n\nA proposal can contain:\n- Business understanding\n- Identified business challenges\n- Proposed solution\n- Services or deliverables\n- Implementation timeline\n- Expected benefits\n- Pricing information\n- Next steps\n\nThe proposal should connect the proposed services with the specific needs of the business.\n\nAvoid making unsupported claims about the prospect's business.",
+    "Digital Marketing Services\n\nDigital marketing can help businesses reach potential customers through online channels.\n\nCommon digital marketing services include:\n- Search engine optimization\n- Local SEO\n- Social media marketing\n- Content marketing\n- Paid advertising\n- Email marketing\n- Lead generation campaigns\n\nLocal businesses can use digital marketing to improve online visibility and generate inquiries."
+  ],
+  "proposal": {
+    "business_summary": "Namrata Advertising is a dynamic and innovative marketing agency specializing in crafting compelling marketing strategies and creative campaigns. It focuses on delivering tailored solutions that resonate with target audiences across various platforms, with a specific emphasis on outdoor advertising in Nashik and Maharashtra.",
+    "identified_needs": [
+      "Not enough information to determine from provided data"
+    ],
+    "proposed_solution": "Not enough information to determine from provided data",
+    "deliverables": [
+      "Not enough information to determine from provided data"
+    ],
+    "implementation_timeline": [
+      "Not enough information to determine from provided data"
+    ],
+    "expected_benefits": [
+      "Not enough information to determine from provided data"
+    ],
+    "pricing_suggestion": "Not available from provided data",
+    "next_steps": [
+      "Not enough information to determine from provided data"
+    ]
+  }
+}

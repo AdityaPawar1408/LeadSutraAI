@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "query": "digital marketing agency",
+  "location": "Nashik",
+  "count": 1,
+  "source": "google_maps_browser",
+  "fallback_used": true,
+  "leads": [
+    {
+      "lead_id": "c9c86835fbe5d3126747afdd",
+      "discovery": {
+        "business_name": "Namrata Advertising | Best Outdoor Advertising Company/Agency In Nashik | Hoardings In Maharashtra",
+        "category": "Marketing agency",
+        "description": null,
+        "address": "Suyojit Trade Centre, G-14, Sharanpur Rd, opp. Rajiv Gandhi Bhavan Road",
+        "phone": null,
+        "email": null,
+        "website": "https://namrataadvertising.com/",
+        "latitude": 20.0015048,
+        "longitude": 73.7766914,
+        "rating": 4.7,
+        "review_count": null,
+        "source_url": "https://www.google.com/maps/place/Namrata+Advertising+%7C+Best+Outdoor+Advertising+Company%2FAgency+In+Nashik+%7C+Hoardings+In+Maharashtra/data=!4m7!3m6!1s0x3bddeb013af2e74b:0xc1d0afa147600a1d!8m2!3d20.0015048!4d73.7766914!16s%2Fg%2F1tcvmr28!19sChIJS-fyOgHr3TsRHQpgR6Gv0ME?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1"
+      },
+      "enrichment": {
+        "contact_person": null,
+        "emails": [
+          "info@namrataadvertising.com"
+        ],
+        "phone_numbers": [
+          "+919371488010"
+        ],
+        "website_status": "active",
+        "website_url": "https://namrataadvertising.com/",
+        "about": "Hoardings offer bold, eye-catching visuals in high-traffic areas, creating a lasting impact on your audience. With diverse sizes, prime locations, and precise targeting, they boost your brand’s image effectively. Pole kiosks provide repeated exposure in high-traffic areas, ensuring your brand stays visible and memorable. Their compact, creative formats are powerful tools for building brand presence and driving engagement. Mobile vans are a dynamic tool for short campaigns and promotions, reaching diverse audiences across locations. They deliver flexible, engaging interactions that captivate attention and create lasting impressions. To build the most creative way to promote the brand across cities. To provide great value to our clients through unique advertising solutions and exceptional customer service. To leverage creative strategies to captivate audiences and enhance brand presence.",
+        "business_description": "Namrata Advertising Company is a dynamic and innovative agency specializing in crafting compelling marketing strategies and creative campaigns. With a deep understanding of market trends and consumer behavior, Namrata Advertising excels in delivering tailored solutions that resonate with target audiences across various",
+        "services": [
+          "Hoardings",
+          "Pole Kiosks",
+          "Mobile Vans",
+          "Our Achievements",
+          "SEE OUR WORK",
+          "Hoarding",
+          "Air Balloons",
+          "Meet Our Team",
+          "Vijay Deshmukh",
+          "CMD",
+          "Machindra Deshmukh",
+          "MD",
+          "Amey Yeole",
+          "Director",
+          "Yogesh Pawar",
+          "Manager",
+          "Pranali Shimpi",
+          "Head media Planner",
+          "What People Say About Us On Google",
+          "Our Clients",
+          "Meet our happy clients",
+          "Google My Business",
+          "Justdial",
+          "Bus Shelters",
+          "Gantries",
+          "Unipoles",
+          "Airport Media",
+          "Theater Ads",
+          "Flex Printing",
+          "Mall and Retail Branding",
+          "Event Branding and BTL Activities"
+        ],
+        "products": [],
+        "target_customers": [],
+        "social_links": {
+          "facebook": null,
+          "instagram": "https://instagram.com/Namrata.advertising",
+          "linkedin": "https://linkedin.com/company/namrata-advertising",
+          "twitter": null
+        },
+        "technology_stack": [
+          "Bootstrap"
+        ],
+        "contact_page_url": "https://namrataadvertising.com/contact.html"
+      },
+      "scoring": {
+        "lead_score": 85.5,
+        "priority": "High",
+        "qualification_status": "Qualified"
+      }
+    }
+  ]
+}
